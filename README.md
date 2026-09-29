@@ -125,8 +125,7 @@ Recriem esta peça de email marketing com **600px de largura**, usando **só HTM
 - Só HTML e CSS. Nada de JavaScript nem frameworks.
 - Todo texto é texto de verdade, nunca imagem. A única imagem é a foto do topo.
 - Largura fixa de 600px, centralizada na janela do navegador.
-- Fundo da área de conteúdo: **uma cor única cinza-escura**, sem a faixa diagonal da referência.
-- Não precisa fazer: o logo vermelho da Claro no rodapé, o "4.5G" vermelho decorativo no canto inferior esquerdo e o sol vermelho sobre o "4.5G" do rodapé.
+
 
 ### A foto do topo
 
