@@ -118,7 +118,7 @@ Neste desafio vocês não precisam calcular versões. Basta escrever os commits 
 
 Recriem esta peça de email marketing com **600px de largura**, usando **só HTML e CSS**.
 
-![Referência da peça emkt-promo](./images/referencia.jpg)
+![Referência da peça emkt-promo](./images/handoff-1-anatomia.png)
 
 ### Regras
 
